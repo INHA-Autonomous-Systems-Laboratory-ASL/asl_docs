@@ -1,5 +1,5 @@
 site_name: Autonomous System Laboratory (ASL) Inha University
-site_url: https://kazimbalti.github.io/inha_asl_doc/
+site_url: https://inha-autonomous-systems-laboratory-asl.github.io/asl_docs/
 theme:
   name: material
   features:
